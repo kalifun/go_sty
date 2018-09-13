@@ -146,11 +146,7 @@ func main()  {
 	fmt.Println(sum)
 }
 ```
-<<<<<<< HEAD
-## if
-=======
 ## if 
->>>>>>> origin/master
 ```go
 package main
 
@@ -281,8 +277,4 @@ func main()  {
 }
 值为：hello
            world
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> origin/master
